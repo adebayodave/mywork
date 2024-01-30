@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: #E8EDED;
+}
+.login{
+    width: 40%;
+    height: 50vh;
+    background: white;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 5px;
+    box-shadow: white 1px 1px;
+
+}
+h1{
+    text-align: center;
+    color: #19AB93;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+table{
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    
+}
+input{
+    width: 355px;
+    height: 26px;
+    margin-bottom: 20px;
+    align-items: center;
+    border: solid 1px rgb(231, 231, 231);
+    border-radius: 10px;
+}
+
+button{
+    display: block;
+    color: #19AB93;
+    margin: auto;
+    padding: 12px 25px;
+    background: #E8EDED;
+    margin-top: 5px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.pragraph{
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    color: blueviolet;
+    text-align: center;
+}
+
